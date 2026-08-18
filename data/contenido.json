@@ -14,7 +14,8 @@
     { "imagen": "avisos_novedades/aviso-beca-santander-2026.jpg", "alt": "Beca Santander", "tag": "Becas · 2026", "nombre": "Beca Santander Manutención 2026" },
     { "imagen": "avisos_novedades/aviso-guia-datos-pago-becarios.jpg", "alt": "Guía datos", "tag": "Trámites · Becarios", "nombre": "Guía de registro de datos de pago para becarios" },
     { "imagen": "avisos_novedades/aviso-convocatoria-internacional-2026.jpg", "alt": "Convocatoria internacional", "tag": "Internacional · 2026", "nombre": "Convocatoria internacional 2026" },
-    { "imagen": "avisos_novedades/programadeapoyo2027.1.jpg", "alt": "Programa de apoyo", "tag": "Apoyo · 2027", "nombre": "Programa de Apoyo 2027" }
+    { "imagen": "avisos_novedades/programadeapoyo2027.1.jpg", "alt": "Programa de apoyo", "tag": "Apoyo · 2027", "nombre": "Programa de Apoyo 2027" },
+     { "imagen": "avisos_novedades/movilidadnacional.jpg", "alt": "movilidad", "tag": "Viaje", "nombre": "Pmovilidad2027" }
   ],
 
   "galeria": {
