@@ -15,9 +15,9 @@
     { "imagen": "avisos_novedades/aviso-guia-datos-pago-becarios.jpg", "alt": "Guía datos", "tag": "Trámites · Becarios", "nombre": "Guía de registro de datos de pago para becarios" },
     { "imagen": "avisos_novedades/aviso-convocatoria-internacional-2026.jpg", "alt": "Convocatoria internacional", "tag": "Internacional · 2026", "nombre": "Convocatoria internacional 2026" }
      { "imagen": "avisos_novedades/aviso-programadeapoyo2027.1.jpg",
-      "alt": "Convocatoria internacional",
-      "tag": "Internacional · 2026",
-      "nombre": "Convocatoria internacional 2026" }
+      "alt": "Convocatoria",
+      "tag": "apoyo · 2026",
+      "nombre": "programadeapoyo2027" }
   ],
 
   "galeria": {
