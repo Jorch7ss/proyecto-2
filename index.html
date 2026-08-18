@@ -4441,7 +4441,7 @@ console.log('SPA Router ready. Pages:', Object.keys(PAGES).join(', '));
         if (scroll) {
           var html = '<div style="width:52px;flex-shrink:0"></div>';
           data.avisos.forEach(function(a, i){
-            html += '<div class="aviso-card reveal in-view" style="transition-delay:' + (i * 0.1) + 's">'
+            html += '<div class="aviso-card reveal visible" style="transition-delay:' + (i * 0.1) + 's">'
               + '<div class="aviso-img"><img src="' + a.imagen + '" alt="' + (a.alt || '') + '" loading="lazy"></div>'
               + '<div class="aviso-body">'
               + '<div class="aviso-tag">' + (a.tag || '') + '</div>'
@@ -4470,7 +4470,7 @@ console.log('SPA Router ready. Pages:', Object.keys(PAGES).join(', '));
               : ("background:linear-gradient(135deg, " + (b.banner_color1 || '#002046') + ", " + (b.banner_color2 || '#1a52a0') + ");");
             var reqs = (b.requisitos || []).map(function(r){ return '<li>' + r + '</li>'; }).join('');
             var asunto = encodeURIComponent(b.asunto_correo || b.nombre || '');
-            return '<div class="bnc' + (b.destacada ? ' bnc--highlight' : '') + ' reveal in-view" data-cat="' + (b.categoria || '') + '">'
+            return '<div class="bnc' + (b.destacada ? ' bnc--highlight' : '') + ' reveal visible" data-cat="' + (b.categoria || '') + '">'
               + '<div class="bnc-banner" style="' + bannerStyle + '"><span>' + (b.banner_texto || b.nombre || '') + '</span></div>'
               + '<div class="bnc-body">'
               + '<div class="bnc-meta"><span class="bnc-cat cat-' + (b.categoria || '') + '">' + (b.categoria_label || '') + '</span>'
