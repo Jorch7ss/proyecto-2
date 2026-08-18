@@ -36,7 +36,7 @@
   "becas": [
     { "categoria": "manutencion", "categoria_label": "💛 Manutención", "estado": "activa", "destacada": false,
       "banner_texto": "Manutención UNAM", "banner_color1": "#b5833a", "banner_color2": "#e8c87a",
-      "nombre": "Beca Manutención UNAM", "monto_principal": "$3,100", "monto_nota": "por semestre",
+      "nombre": "Beca Manutención UNAM", "monto_principal": "$3,600", "monto_nota": "por semestre",
       "requisitos": ["Promedio mínimo de <strong>7.0 a 8.0</strong>", "Ingreso familiar <strong>≤ 4 salarios mínimos</strong>", "Ser alumno/a regular de licenciatura"],
       "fecha": "Abre: Febrero (sem. par) · Agosto (sem. impar)",
       "pdf": "documentos/beca-manutencion.pdf", "boton_pdf_texto": "📄 Descargar convocatoria", "asunto_correo": "Consulta Beca Manutención UNAM" },
