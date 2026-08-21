@@ -287,7 +287,7 @@
   ],
   "video": {
     "_ayuda": "Este video aparece en la parte alta de la página, justo después de las tarjetas de movilidad — úsalo para explicar en video los requisitos y pasos de la convocatoria vigente. Para activarlo: 1) sube tu video a YouTube (público o \"no listado\"), 2) copia el ID de la URL — en https://www.youtube.com/watch?v=ABC123XYZ el ID es \"ABC123XYZ\", 3) pégalo en \"youtube_id\" abajo. Deja \"youtube_id\" en blanco para no mostrar ningún video.",
-    "youtube_id": "",
+    "youtube_id": "UA56XepVvy4",
     "titulo": "Cómo postular a la convocatoria de movilidad · SIAyB FE UNAM"
   }
 }
